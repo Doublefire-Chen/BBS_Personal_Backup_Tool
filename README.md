@@ -7,7 +7,7 @@ The backup file will be saved in the current work path.
 
 # Screenshot
 
-![Screenshot 2023-09-15 at 13.28.30](./images/Screenshot 2023-09-15 at 13.28.30.png)
+![Screenshot 2023-09-15 at 13.28.30](./images/Screenshot\ 2023-09-15\ at\ 13.28.30.png)
 
 ![Screenshot 2023-09-15 at 13.29.23](./images/Screenshot 2023-09-15 at 13.29.23.png)
 
