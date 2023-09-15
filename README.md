@@ -31,7 +31,7 @@ First of all, you need Python installed in your PC
 
 Go the the [Python official web](https://www.python.org/) to get one, install it followed by the instrution. Remember that you should add python to the path (environment variables) during the  installation process by ticking the square.
 
-![Screenshot 2023-09-15 at 14.28.12](./images/Screenshot 2023-09-15 at 14.28.12.png)
+![Screenshot 2023-09-15 at 14.28.12](./images/Screenshot%202023-09-15%20at%2014.28.12.png)
 
 Then download the source code in this github page.
 
@@ -42,7 +42,7 @@ Then download the source code in this github page.
 
 For example:
 
-![Screenshot%202023-09-15%20at%2014.18.17](./images/Screenshot 2023-09-15 at 14.18.17.png)
+![Screenshot 2023-09-15 at 14.18.17](./images/Screenshot%202023-09-15%20at%2014.18.17.png)
 
 3. Install essential python package using the following command.
    ```
@@ -72,7 +72,7 @@ For example:
 1. Download and unzip the latest [ANSICON](https://github.com/adoxa/ansicon/releases/download/v1.89/ansi189-bin.zip) (the traditional cmd or powershell does not support ANSI)
 
 2. Run the ansicon exe.
-   ![Screenshot%202023-09-15%20at%2014.45.30](./images/Screenshot 2023-09-15 at 14.45.30.png)
+   ![Screenshot 2023-09-15 at 14.45.30](./images/Screenshot%202023-09-15%20at%2014.45.30.png)
 
 3. Install essential python package using the following command.
    ```
@@ -87,7 +87,7 @@ For example:
 
 4. Change the current work path to the program's path using ```cd``` command.
 
-   ![Screenshot%202023-09-15%20at%2014.48.01](./images/Screenshot 2023-09-15 at 14.48.01.png)
+   ![Screenshot 2023-09-15 at 14.48.01](./images/Screenshot%202023-09-15%20at%2014.48.01.png)
 
 5. Run the program using the following command.
 
